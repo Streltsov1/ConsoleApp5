@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "ConsoleApp5\Server.csproj", "{EE18A3CB-D6D2-4747-9AAB-FCB157F870F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clinet", "ConsoleApp1\Clinet.csproj", "{CAD82E75-AF98-4373-8AF4-488C0DB9AF70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{8BF9243A-0789-41DF-A7BA-1138690FE450}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE18A3CB-D6D2-4747-9AAB-FCB157F870F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE18A3CB-D6D2-4747-9AAB-FCB157F870F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE18A3CB-D6D2-4747-9AAB-FCB157F870F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE18A3CB-D6D2-4747-9AAB-FCB157F870F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAD82E75-AF98-4373-8AF4-488C0DB9AF70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAD82E75-AF98-4373-8AF4-488C0DB9AF70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAD82E75-AF98-4373-8AF4-488C0DB9AF70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAD82E75-AF98-4373-8AF4-488C0DB9AF70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BF9243A-0789-41DF-A7BA-1138690FE450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BF9243A-0789-41DF-A7BA-1138690FE450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BF9243A-0789-41DF-A7BA-1138690FE450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BF9243A-0789-41DF-A7BA-1138690FE450}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {803020D9-F67E-43EB-953C-030B51DFE76E}
+	EndGlobalSection
+EndGlobal
